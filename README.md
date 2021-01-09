@@ -4,5 +4,5 @@ Step by step revision and hands on
 
   -Univariate Linear regression (Lecture)
   
-  -Univariate Linear regression (Basic function)
+  -Univariate Linear regression (Basic hands on activity)
   
